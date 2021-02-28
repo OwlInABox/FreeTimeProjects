@@ -1,0 +1,5 @@
+local search function
+web search function
+statistics (lenght, count, symbols tracking)
+user interface
+result filter
